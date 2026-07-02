@@ -93,7 +93,7 @@ GitHub:
 https://github.com/micooeyll
 
 LinkedIn:
-[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/hamide-eylul-micoogullari/)
+[[https://linkedin.com/in/mi](https://www.linkedin.com/in/hamide-eylul-micoogullari/)]
 
 Email:
 micooeyll@icloud.com(mailto:micooeyll@icloud.com)
