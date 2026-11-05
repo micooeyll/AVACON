@@ -12,7 +12,7 @@ This project was created independently as a portfolio project after discovering 
 ## 🌐 Live Demo
 
 **Website:**
-[https]([https://micooeyll.github.io/AVACON/index.html])
+https://micooeyll.github.io/AVACON/index.html
 
 ---
 
